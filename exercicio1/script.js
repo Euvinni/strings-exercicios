@@ -1,5 +1,5 @@
 const nomeEComida = (nome, comida1, comida2, comida3) => {
-const mensagem = (`Estas são as comidas favoritas de ${nome}: \n-Comida1: ${comida1} \n-Comida2: ${comida2} \n-Comida3: ${comida3} `)
+const mensagem = `Estas são as comidas favoritas de ${nome}: \n-Comida1: ${comida1} \n-Comida2: ${comida2} \n-Comida3: ${comida3} `
 console.log(mensagem)
 
 }
